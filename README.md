@@ -2,7 +2,7 @@
 
 A modern [Scorched Earth](https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)) clone.
 
-[Play it for free on github pages](https://haruki-hotarou-2021.github.io/TANKS/)
+[Play it for free on github pages](https://haruki-hotarou-2021.github.io/1945/)
 
 ![A screenshot of the game](docs/screenshot.png)
 
